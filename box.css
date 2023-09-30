@@ -1,0 +1,29 @@
+
+.i1{
+    height:300px;
+    width:350px;
+    margin-left:5px;
+    margin-top: 2%;
+    border-width:5px;
+    border-style: solid;
+    border-color: rgb(6, 6, 255);
+} 
+.i2{
+    height:300px;
+    width:350px;
+    margin-top: 2%;
+    margin-left: 115px;
+    margin-right:115px;
+    border-width:5px;
+    border-style: solid;
+    border-color: rgb(6, 6, 255);
+}
+.i3{
+    height:300px;
+    width:350px;
+    margin-top: 2%;
+    margin-left: 10px;
+    border-width:5px;
+    border-style: solid;
+    border-color: rgb(6, 6, 255);
+}

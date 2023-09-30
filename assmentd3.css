@@ -1,0 +1,19 @@
+.box{
+    border-width: 4px;
+    border-color: brown;
+    margin-left: 10px;
+    margin: 5%;
+}
+.b2{
+    border-width: 4px;
+    border-color: brown;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: 5%;
+}
+.b3{
+    border-width: 4px;
+    border-color: brown;
+    margin-left: 10px;
+    margin: 5%;
+}

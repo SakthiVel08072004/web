@@ -1,0 +1,21 @@
+input{
+    background-color: rgb(250, 252, 252);
+    border:2px solid;color:rgb(152, 13, 170);
+}
+</style>
+<center><fieldset style="width:400px;background-color:rgb(242, 239, 245); text-align: left;">
+    <form>
+        <label> Name:</label>
+        <input type="text"><br><br>
+        <label> Age:</label>
+        <input type="number"><br><br>
+        <label> Dob:</label>
+        <input type="date"><br><br>
+        <label> Mobile No:</label>
+        <input type="number"><br><br>
+        <label>Email:</label>
+        <input type="email"><br><br>
+        <label> Password </label>
+        <input type="password"></label>
+    </form>
+</fieldset></center>
